@@ -1,0 +1,89 @@
+# Common generated document formats and local work files.
+*.doc
+*.docx
+*.pdf
+*.pages
+*.rtf
+*.tmp
+*.temp
+*.bak
+~$*
+
+# Career OS personal profile and future private configuration.
+config/*
+!config/README.md
+!config/*.example.*
+!config/.gitkeep
+
+# Real resumes and resume outputs. Keep only public guidance and examples.
+Resume/*
+!Resume/README.md
+!Resume/*.example.*
+!Resume/.gitkeep
+
+# Real achievement records. Keep only public guidance, examples, and templates.
+Achievements/*
+!Achievements/README.md
+!Achievements/*.example.*
+!Achievements/_TEMPLATE*
+!Achievements/_TEMPLATE*/
+!Achievements/_TEMPLATE*/**
+!Achievements/.gitkeep
+
+# Real opportunity pipeline.
+Pipeline/*
+!Pipeline/README.md
+!Pipeline/*.example.*
+!Pipeline/_TEMPLATE*
+!Pipeline/_TEMPLATE*/
+!Pipeline/_TEMPLATE*/**
+!Pipeline/.gitkeep
+
+# Real interview-prep and StoryBank data. Public modules remain trackable.
+Interview_Prep/*
+!Interview_Prep/README.md
+!Interview_Prep/*.example.*
+!Interview_Prep/_TEMPLATE*
+!Interview_Prep/_TEMPLATE*/
+!Interview_Prep/_TEMPLATE*/**
+!Interview_Prep/modules/
+!Interview_Prep/modules/**
+!Interview_Prep/.gitkeep
+
+# Real applications. Keep public guidance and template folders.
+Applications/*
+!Applications/README.md
+!Applications/*.example.*
+!Applications/_TEMPLATE*
+!Applications/_TEMPLATE*/
+!Applications/_TEMPLATE*/**
+!Applications/.gitkeep
+
+# Real offers. Keep public guidance, examples, and templates.
+Offers/*
+!Offers/README.md
+!Offers/*.example.*
+!Offers/_TEMPLATE*
+!Offers/_TEMPLATE*/
+!Offers/_TEMPLATE*/**
+!Offers/.gitkeep
+
+# Real notes. Keep only public guidance, examples, and templates.
+Notes/*
+!Notes/README.md
+!Notes/*.example.*
+!Notes/_TEMPLATE*
+!Notes/_TEMPLATE*/
+!Notes/_TEMPLATE*/**
+!Notes/.gitkeep
+
+# Confidential material. Keep only the public explanation.
+Private/*
+!Private/README.md
+
+# Operating-system and editor metadata.
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
