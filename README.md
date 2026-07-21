@@ -160,8 +160,19 @@ My goals have changed. Interview me about the change and propose updates to my p
 - [Privacy and your data](docs/privacy.md)
 - [Set up your AI tool](docs/using-with-agents.md)
 
+## Share feedback
+
+Trying Career OS in a real job search? [Leave a comment in the feedback
+thread](https://github.com/allanc92/Career-OS/discussions/1), or [start a new
+idea](https://github.com/allanc92/Career-OS/discussions/new?category=ideas).
+Share what worked, what felt confusing, and what would make the system more
+useful. Do not post your resume, application materials, employer-confidential
+information, or other personal career data.
+
 ## License and contributions
 
 The reusable template is available under the [MIT License](LICENSE). Your personal data remains yours.
 
-The canonical repository is published as a read-only template and does not accept contributions. See [CONTRIBUTING.md](CONTRIBUTING.md).
+The canonical repository is published as a read-only template and does not
+accept code contributions. Feedback is welcome through Discussions. See
+[CONTRIBUTING.md](CONTRIBUTING.md).
